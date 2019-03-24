@@ -20,5 +20,11 @@ public class FlightFinderData {
 		List<String> expDepartList = Arrays.asList("Acapulco","Frankfurt","London","New York","Paris","Portland","San Francisco","Seattle","Sydney","Zurich");
 		return expDepartList;
 	}
+	static public String expectedTest() {
+		String str;
+		return str;
+	}
 
+	
+	
 }
