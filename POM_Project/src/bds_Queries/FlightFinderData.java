@@ -3,6 +3,7 @@ package bds_Queries;
 import java.util.Arrays;
 import java.util.List;
 
+
 public class FlightFinderData {
 	static public int expectedRadioSize() {
 		 int expectedRaiosize = 5;
